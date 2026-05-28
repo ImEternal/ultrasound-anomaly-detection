@@ -58,7 +58,7 @@ Signal Generation
 
 The model achieves reasonable classification performance on synthetic data, demonstrating that simple statistical features can already capture anomaly patterns in noisy sensor signals.
 
-Add Matrix here later
+![Confusion_Matrix](results/confusion_matrix.png)![Synthetic Ultrasound-like Signals](results/Synthetic%20Ultrasound-like%20Signals.png)
 
 ---
 
